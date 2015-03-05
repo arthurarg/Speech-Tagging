@@ -1,4 +1,3 @@
-Homework 1 - COMS4705
 UNI: aa3572
 Name: Arthur Argenson
 
